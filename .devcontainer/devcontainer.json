@@ -1,6 +1,9 @@
 {
     "name":"jovial-raptor",
     "image":"mcr.microsfot.com/decontainers/cpp:ubuntu-22.04",
-    "features": {}
+    "features": {
+        "ghcr.io/devcontainers/features/cmake:1": {"version":"3.28"},
+        "ghcr.io/devcontainers/features/python:1":{"version":"3.11"}
+    }
     
 }

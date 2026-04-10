@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-    fprintf("Hello World!\n")
+    printf("Hello World!\n");
 }

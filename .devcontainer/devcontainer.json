@@ -14,5 +14,5 @@
             ]
         }
     },
-"postCreateCommand"
+"postCreateCommand": "pip install pybind11 torch numpy matplotlib --break-system-packages"
 }
